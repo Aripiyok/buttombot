@@ -11,9 +11,9 @@ TARGET_CHANNEL = os.getenv("TARGET_CHANNEL")
 
 # Tombol contoh (bisa kamu ubah sendiri)
 BUTTONS = [
-    [Button.url("📢 Join Channel", "https://t.me/YourChannelName")],
-    [Button.url("🎯 Follow Admin", "https://t.me/YourUsername")]
+    [Button.url("📢 Channel Backup ", "https://t.me/+83yUVYjj-v5jNzVl")]
 ]
+
 
 bot = TelegramClient("button_adder", API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
