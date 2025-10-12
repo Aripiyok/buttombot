@@ -11,7 +11,7 @@ TARGET_CHANNEL = os.getenv("TARGET_CHANNEL")
 
 # Tombol contoh (bisa kamu ubah sendiri)
 BUTTONS = [
-    [Button.url("📢 Channel Backup ", "https://t.me/+83yUVYjj-v5jNzVl")]
+    [Button.url("📢 Channel Backup ", "https://t.me/+cVbvBt4YtAk1ODI1")]
 ]
 
 
